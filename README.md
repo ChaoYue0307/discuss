@@ -1,5 +1,7 @@
 # Discuss
 
+An Elixir app based on Phoenix framework for adding discussiong and topics. This app includs implemntation of OAuth and WebSocket(not finished) techniques
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
